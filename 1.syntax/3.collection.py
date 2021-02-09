@@ -102,4 +102,4 @@ item = me_dict_2[10]
 # применеие алтернативы условным операторам
 condition = "key_1"_
 d = {"key_1":100, "key_2":200}
-print(d[condition])
+# print(d[condition])
